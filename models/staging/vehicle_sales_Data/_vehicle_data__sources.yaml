@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: vehicle_sales
+    database: API_DATA  
+    schema: table1  
+    tables:
+      - name: CAR_SALES
